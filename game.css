@@ -1,0 +1,25 @@
+#yard{
+    border:3px solid green;
+    width:640px;
+    height: 640px;
+  }
+  #yard div{
+    width: 64px;
+    height: 64px;
+    float:left;
+  }
+  #yard .grass{
+    background: url(./grass.png);
+  }
+  #yard .bone{
+    background: url(./bone.png);
+  }
+  #yard .bone-found{
+    background: url(./bone-found.png);
+  }
+  
+  button{
+    background: url(./dog.png) no-repeat center;
+    width: 128px;
+    height: 128px;
+  }
